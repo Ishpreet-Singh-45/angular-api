@@ -1,0 +1,25 @@
+*
+{
+	font-size: 1.2rem;
+	font-family: 'DejaVu Sans', sans-serif;
+}
+
+
+.container-fluid
+{
+	width: auto !important;
+	margin: 0;
+	padding: 0;
+}
+
+ul>li
+{
+	margin: 0 28px;
+	color: #fff;
+}
+
+.nav-link
+{
+	color: #fff !important;
+}
+

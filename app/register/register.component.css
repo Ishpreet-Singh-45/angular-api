@@ -1,0 +1,48 @@
+*
+{
+	transition: .2s;
+}
+
+.card
+{
+	font-size: 1.1rem;
+	border: none;
+	width: 28rem;
+	height: 100%;
+	box-shadow: 0 5px 5px black;
+
+}
+
+.card-body
+{
+	font-size: 1rem;
+}
+.form-btn button
+{
+	position: relative;
+	text-transform: uppercase;
+	cursor: pointer;
+	background: none;
+	border: none;
+}
+
+.form-btn button
+{
+	width: 100%;
+	padding: .8rem 3.8rem;
+}
+
+.form-btn button:last-child
+{
+	background: #FF6363;
+}
+
+.form-btn button:hover
+{
+	box-shadow: 0 2px 5px black;
+}
+
+#reset
+{
+	float: right;
+}

@@ -1,0 +1,17 @@
+form
+{
+	border: 5px solid black;
+	height: ;
+}
+
+form label
+{
+	font-weight: 700;
+}
+
+form input:focus
+{
+	border: 1px solid black;
+	box-shadow: 2px 2px 5px black;
+
+}
